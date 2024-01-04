@@ -28,7 +28,7 @@ A rock-paper-scissor game that uses object detection image processing using tran
 ```
 
 <p align="center">
-   Because the model size is too large, can be downloaded <a href="https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip">here</a>
+   Because the model size is too large, can be downloaded <a href="https://drive.google.com/file/d/1yI1eQqwLhFyBH7twRx4F5sfGP3AlFqg2/view?usp=sharing">here</a>
 </p>
    
 - then move it to the directory ```/models```
@@ -63,7 +63,7 @@ streamlit run app.py
 
 To view the project as a deployed online web app hosted by Heroku, you can check out with [this link](https://gamsit-b06bba895a32.herokuapp.com/)
 
-<video src="demo_gamsit.mp4" controls title="Title"></video>
+![heroku gif](demo_gamsit.mp4)
 
 
 

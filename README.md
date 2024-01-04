@@ -81,7 +81,7 @@ Read more about this model at:
 
 We achieved 98% accuracy on training set and 99% accuracy on validation set.
 
-<details>
+
 <summary>Confussion Matrix</summary>
 
 <br>
@@ -92,9 +92,6 @@ We achieved 98% accuracy on training set and 99% accuracy on validation set.
  [  2   0 748]]
 ```
 
-</details>
-
-<details>
 <summary>Classification Report</summary>
 
 <br>

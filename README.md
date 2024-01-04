@@ -63,7 +63,7 @@ streamlit run app.py
 
 To view the project as a deployed online web app hosted by Heroku, you can check out with [this link](https://gamsit-b06bba895a32.herokuapp.com/)
 
-![heroku gif](demo_gamsit.mp4)
+![heroku gif](demo_gamsit.gif)
 
 
 
